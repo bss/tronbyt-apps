@@ -1,0 +1,8 @@
+---
+id: datadog-slo
+name: Datadog SLO
+summary: Show statusof Datadog SLO
+desc: Shows the status and SLI of a SLO from Datadog.
+author: bss
+fileName: datadog_slo.star
+packageName: datadogslo
