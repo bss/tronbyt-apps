@@ -1,0 +1,9 @@
+---
+id: claude-usage
+name: Claude Code Usage
+summary: Display Claude Code usage data
+desc: Shows token and dollar usage from Claude Code
+author: bss
+fileName: claudeusage.star
+packageName: claudeusage
+
